@@ -10,7 +10,7 @@
  * continue the running even if the shell exit,\n the output will appear in file called 'nohup.txt'
  * instead of the terminal.
 
-@author Itamar Brina, 208560920*/
+@author Itamar Brina*/
 //includes :
 #include <stdio.h>
 #include <string.h>
